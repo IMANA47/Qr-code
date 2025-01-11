@@ -1,103 +1,103 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Solution de composant de code QR
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Voici une solution au [défi du composant de code QR sur Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Les défis Frontend Mentor vous aident à améliorer vos compétences en codage en créant des projets réalistes.
 
-## Table of contents
+## Table des matières
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Aperçu](#aperçu)
+- [Capture d'écran](#capture d'écran)
+- [Liens](#liens)
+- [Mon processus](#mon-processus)
+- [Construit avec](#construit-avec)
+- [Ce que j'ai appris](#ce-que-j'ai-appris)
+- [Développement continu](#développement-continu)
+- [Ressources utiles](#ressources-utiles)
+- [Auteur](#auteur)
+- [Remerciements](#reconnaissances)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+**Remarque : supprimez cette note et mettez à jour la table des matières en fonction des sections que vous conservez.**
 
-## Overview
+## Aperçu
 
-### Screenshot
+### Capture d'écran
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Ajoutez une capture d'écran de votre solution. Le moyen le plus simple de le faire est d'utiliser Firefox pour afficher votre projet, de faire un clic droit sur la page et de sélectionner « Prendre une capture d'écran ». Vous pouvez choisir une capture d'écran pleine hauteur ou recadrée en fonction de la longueur de la page. Si elle est très longue, il peut être préférable de la recadrer.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Vous pouvez également utiliser un outil comme [FireShot](https://getfireshot.com/) pour prendre la capture d'écran. FireShot propose une option gratuite, vous n'avez donc pas besoin de l'acheter.
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+Recadrez/optimisez/modifiez ensuite votre image comme vous le souhaitez, ajoutez-la à votre projet et mettez à jour le chemin d'accès au fichier dans l'image ci-dessus.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+**Remarque : supprimez cette note et les paragraphes ci-dessus lorsque vous ajoutez votre capture d'écran. Si vous préférez ne pas ajouter de capture d'écran, n'hésitez pas à supprimer toute cette section.**
 
-### Links
+### Liens
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL de la solution : [Ajoutez l'URL de la solution ici](https://your-solution-url.com)
+- URL du site en ligne : [Ajoutez l'URL du site en ligne ici](https://your-live-site-url.com)
 
-## My process
+## Mon processus
 
-### Built with
+### Créé avec
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Balisage HTML5 sémantique
+- Propriétés personnalisées CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Grille CSS
+- Flux de travail axé sur le mobile
+- [React](https://reactjs.org/) - Bibliothèque JS
+- [Next.js](https://nextjs.org/) - Framework React
+- [Composants stylisés](https://styled-components.com/) - Pour les styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+**Remarque : ce ne sont que des exemples. Supprimez cette note et remplacez la liste ci-dessus par vos propres choix**
 
-### What I learned
+### Ce que j'ai appris
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Utilisez cette section pour récapituler certains de vos principaux apprentissages tout au long de ce projet. Les écrire et fournir des exemples de code des domaines que vous souhaitez mettre en évidence est un excellent moyen de renforcer vos propres connaissances.
 
-To see how you can add code snippets, see below:
+Pour voir comment vous pouvez ajouter des extraits de code, voir ci-dessous :
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Un code HTML dont je suis fier</h1>
 ```
 ```css
 .proud-of-this-css {
-  color: papayawhip;
+color: papayawhip;
 }
 ```
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
+console.log('🎉')
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Si vous souhaitez obtenir plus d'aide pour écrire du markdown, nous vous recommandons de consulter [The Markdown Guide](https://www.markdownguide.org/) pour en savoir plus.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+**Remarque : supprimez cette note et le contenu de cette section et remplacez-les par vos propres apprentissages.**
 
-### Continued development
+### Développement continu
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Utilisez cette section pour décrire les domaines sur lesquels vous souhaitez continuer à vous concentrer dans les projets futurs. Il peut s'agir de concepts avec lesquels vous n'êtes toujours pas complètement à l'aise ou de techniques que vous avez trouvées utiles et que vous souhaitez affiner et perfectionner.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+**Remarque : supprimez cette note et le contenu de cette section et remplacez-les par vos propres plans de développement continu.**
 
-### Useful resources
+### Ressources utiles
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Exemple de ressource 1](https://www.example.com) - Cela m'a aidé pour la raison XYZ. J'ai vraiment aimé ce modèle et je l'utiliserai à l'avenir.
+- [Exemple de ressource 2](https://www.example.com) - C'est un article incroyable qui m'a aidé à comprendre enfin XYZ. Je le recommanderais à toute personne qui apprend encore ce concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+**Remarque : supprimez cette note et remplacez la liste ci-dessus par des ressources qui vous ont aidé pendant le défi. Ceux-ci pourraient être utiles à toute personne consultant votre solution ou à vous-même lorsque vous reviendrez sur ce projet à l'avenir.**
 
-## Author
+## Auteur
 
-- Website - [Nsengimana François](https://www.nsengimana-françois.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@f_nsengimana](https://www.twitter.com/yourusername)
+- Site Web - [Nsengimana François](https://www.nsengimana-françois.com)
+- Frontend Mentor - [@votre nom d'utilisateur](https://www.frontendmentor.io/profile/votre nom d'utilisateur)
+- Twitter - [@f_nsengimana](https://www.twitter.com/votre nom d'utilisateur)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+**Remarque : supprimez cette note et ajoutez/supprimez/modifiez les lignes ci-dessus en fonction des liens que vous souhaitez partager.**
 
-## Acknowledgments
+## Remerciements
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+C'est ici que vous pouvez remercier tous ceux qui vous ont aidé sur ce projet. Peut-être avez-vous travaillé en équipe ou vous êtes-vous inspiré de la solution de quelqu'un d'autre. C'est l'endroit idéal pour leur donner du crédit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+**Remarque : supprimez cette note et modifiez le contenu de cette section si nécessaire. Si vous avez relevé ce défi par vous-même, n'hésitez pas à supprimer entièrement cette section.**
